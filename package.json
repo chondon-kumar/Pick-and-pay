@@ -1,0 +1,26 @@
+{
+  "name": "pick-and-pay",
+  "version": "1.0.0",
+  "description": "e-commerce app",
+  "keywords": [
+    "e-commerce"
+  ],
+  "homepage": "https://github.com/chondon-kumar/Pick-and-pay#readme",
+  "bugs": {
+    "url": "https://github.com/chondon-kumar/Pick-and-pay/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chondon-kumar/Pick-and-pay.git"
+  },
+  "license": "ISC",
+  "author": "chondon-kumar",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mongoose": "^8.16.0"
+  }
+}
